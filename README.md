@@ -2,7 +2,7 @@
 Этот проект представляет собой телеграмм бота, который использует модель Yandex GPT для генерации текста. Бот позволяет создавать истории, выбирая героев, жанры истории и сеттинги.
 ## Установка
 1. Клонируйте репозиторий на свой локальный компьютер:
-git clone https://github.com/your_username/telegram-gpt-bot.git
+git clone https://github.com/buenaz/NikitaYandexGPTTgBot
 
 2. Установите необходимые зависимости:
 pip install -r requirements.txt
